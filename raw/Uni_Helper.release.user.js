@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name            UniUni Dispatch - Multi-Function Tool v3.3.4
+// @name            Uni Helper - v3.3.4
 // @namespace       https://tampermonkey.net/
 // @version         3.3.4
 // @description     Fixed window height issues to prevent vertical scrolling.
