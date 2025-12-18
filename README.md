@@ -1,9 +1,24 @@
-# Uni_Helper
+# Uni_Helper Installation Guide
 This is a tool that helps automate stuff :D
 
-1. To use this tool, you need to install Tampermonkey on your laptop. Tampermonkey is only available for Chromium based browser, so use Chrome, Edge, Firefox and so on.
-2. Make sure allow user scripts is turned on for tampermonkey.
-3. Open up the release page and hit Raw, then proceed with the install.
-4. After the correct installation，Open/Refresh the Uni Webpage, on the bottom right corner, the helper tool will appear.
-5. Enjoy!
+1. Install Tampermonkey
+You need the Tampermonkey extension to run this script. It is compatible with most modern browsers:
 
+Chromium Browsers: Chrome, Microsoft Edge, Brave, Opera.
+
+Non-Chromium: Firefox, Safari.
+
+Note: Ensure "Allow access to file URLs" or "Developer Mode" is enabled in your browser settings if prompted.
+
+2. Enable User Scripts
+Open the Tampermonkey dashboard and ensure that the "Enabled" toggle is turned on for user scripts.
+
+3. Install the Script
+Navigate to https://github.com/cpr126/Uni_Helper/blob/main/raw/Uni_Helper.release.user.js
+
+Click the "Raw" button on the script file.
+
+A Tampermonkey window will open automatically; click Install.
+
+4. Activate the Tool
+Open or refresh your University Webpage. You should see the helper tool appear in the bottom right corner of your screen.
