@@ -14,11 +14,11 @@ Note: Ensure "Allow access to file URLs" or "Developer Mode" is enabled in your 
 Open the Tampermonkey dashboard and ensure that the "Enabled" toggle is turned on for user scripts.
 
 3. Install the Script
-Navigate to https://github.com/cpr126/Uni_Helper/blob/main/raw/Uni_Helper.release.user.js
+Navigate to https://github.com/cpr126/Uni_Helper/blob/main/raw/Uni_Helper_1.0.1.release.user.js
 
 Click the "Raw" button on the script file.
 
 A Tampermonkey window will open automatically; click Install.
 
 4. Activate the Tool
-Open or refresh your University Webpage. You should see the helper tool appear in the bottom right corner of your screen.
+Open or refresh webpage. You should see the helper tool appear in the bottom right corner of your screen.
